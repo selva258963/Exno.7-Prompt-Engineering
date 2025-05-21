@@ -1,6 +1,6 @@
 # Exno.7 – Prompt-Based Application Using ChatGPT
 
-### Date: ``2025``
+### Date: ``21-05-2025``
 
 ### Register No: ``212222040163``
 
